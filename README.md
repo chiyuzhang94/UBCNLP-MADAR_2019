@@ -1,6 +1,6 @@
 Data Augmentation by Semi-supervised training
 
-`test_results_sample.tsv` is a input sample which include the logit of all unlabelled samples. 
+`test_results_sample.tsv` is a input sample which includes the logit of all unlabelled samples from the model by supervied training. 
 
 ```
 @inproceedings{zhang2019no,
