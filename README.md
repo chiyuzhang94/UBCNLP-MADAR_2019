@@ -1,3 +1,5 @@
+[No Army, No Navy: BERT Semi-Supervised Learning of Arabic Dialects](https://aclanthology.org/W19-4637.pdf)
+
 Data Augmentation by Semi-supervised training
 
 `test_results_sample.tsv` is a input sample which includes the logit of all unlabelled samples from the model by supervied training. 
